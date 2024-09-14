@@ -20,12 +20,7 @@ Layout
     header:These are things you can build.
   *unlockables
     contains:Upgrades, Achievements
-  *section1
-    contains:buttons
-    *subsection0101
-      contains:Log
-    *subsection0102
-      contains:Log
+
 Resources
   *woodStick
   name:Stick
