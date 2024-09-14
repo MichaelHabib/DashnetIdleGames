@@ -3,3 +3,12 @@
 https://orteil.dashnet.org/igm/?g=https://raw.githubusercontent.com/MichaelHabib/DashnetIdleGames/refs/heads/main/MineAndDine/MineAndDine.txt
 
 https://discord.com/channels/412363381891137536/1284383386202279947
+
+== Resources
+
+== Examples
+
+- https://orteil.dashnet.org/igm/?g=https://file.garden/Yhwc9XZFah3TM9iw/SMS%20%2724.txt
+-- https://file.garden/Yhwc9XZFah3TM9iw/SMS%20%2724.txt
+
+- https://pastebin.com/dA7NH6PW
