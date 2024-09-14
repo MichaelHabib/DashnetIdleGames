@@ -1,1 +1,15 @@
+Let's make a game!
+ name: Mine & Dine
+ desc:Mine resources, craft gear, build factories & restaurants & start a business.
+ version: 0.1
+
+Resources
+  *woodStick
+  name:Stick
+  desc: A stick ...
+
+Upgrades
+  *woodAxe
+    name:Wooden Axe
+    desc:
 
