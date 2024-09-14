@@ -22,9 +22,9 @@ Layout
     contains:Upgrades, Achievements
   *section1
     contains:buttons
-    *subsection1-1
+    *subsection0101
       contains:Log
-    *subsection1-1
+    *subsection0102
       contains:Log
 
 Resources
