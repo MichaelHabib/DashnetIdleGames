@@ -44,11 +44,11 @@ Upgrades
   *woodAxeSharpener
     name:Wooden Axe
     desc:
-    costs: 0 gold, 0 stone, 1 stick
+    //costs: 0 gold, 0 stone, 1 stick
 
 Items
   *woodAxeSharpener
     name:Wooden Axe
     desc:
-    passive:grant 5 woodCuttingSpeed
+    //passive:grant 5 woodCuttingSpeed
 
