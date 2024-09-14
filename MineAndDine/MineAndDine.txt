@@ -23,7 +23,7 @@ Resources
     name:Stick
     desc: A stick ...
     tags:tagName
-    costs: 0 gold, 0 stone
+    //costs: 0 gold, 0 stone
     start with: 100
     on click: yield 1 stick
     show clicks
@@ -51,3 +51,4 @@ Items
     name:Wooden Axe
     desc:
     passive:grant 5 woodCuttingSpeed
+
