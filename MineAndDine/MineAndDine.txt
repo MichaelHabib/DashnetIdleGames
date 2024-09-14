@@ -1,0 +1,49 @@
+Let's make a game!
+ name: Mine & Dine
+ desc:Mine resources, craft gear, build factories & restaurants & start a business.
+ version: 0.1
+
+Settings
+  building cost increase: 110%
+  building cost refund: 90%
+
+Layout
+  *resources
+    contains:Resources
+    header:These are your resources.
+    tooltip origin:left
+    names:show
+    icons:show
+    ps:show
+
+Resources
+  *woodStick
+    name:Stick
+    desc: A stick ...
+    tags:tagName
+    costs: 0 gold, 0 stone
+    start with: 100
+    on click: yield 1 woodStick
+    show clicks
+    show earned
+    show max
+
+Buildings
+  *lumberjack
+    name: lumberjack
+    desc: cust logs
+    on tick: yield 10 woodStick
+    cost: 10 woodStick
+
+
+Upgrades
+  *woodAxeSharpener
+    name:Wooden Axe
+    desc:
+    costs: 0 gold, 0 stone, 1 woodStick
+
+Items
+  *woodAxeSharpener
+    name:Wooden Axe
+    desc:
+    passive:grant 5 woodCuttingSpeed
