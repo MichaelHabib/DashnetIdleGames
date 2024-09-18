@@ -26,11 +26,12 @@ Resources
     //costs: 0 gold, 0 stone
     start with: 100
     on click: yield 1 stick
-    show clicks
-    show earned
-    show max
+    //show clicks
+    //show earned
+    //show max
   *stone
-  
+    name:Stone
+    desc: A stone ...
 
 Buildings
   *lumberjack
